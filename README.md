@@ -1,10 +1,13 @@
-# PREDICTION_FastAPI
+# PREDICTION_BOURSE
 
-## PREDCITION DE BOURSE & DEPLOIEMENT FastAPI 
+## PREDICTION DE BOURSE & DEPLOIEMENT FastAPI 
 
 **Description**:
 
-Ce projet a pour objectif de développer un modèle de machine learning capable de prédire l'attribution d'une bourse d'étude à un étudiant en fonction de ses notes académiques. Le modèle analyse les performances scolaires pour estimer la probabilité d'obtenir une bourse*
+Dans ce projet je développe un modèle de machine learning capable de prédire l'attribution d'une bourse d'étude à un étudiant en fonction de ses notes académiques. 
+
+Le modèle analyse les performances scolaires pour estimer la probabilité d'obtenir une bourse*
+
 
 ## 👤 Auteur
 
